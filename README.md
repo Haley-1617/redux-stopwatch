@@ -1,1 +1,1 @@
-# Redux Stopwatch
+# Stopwatch Redux
