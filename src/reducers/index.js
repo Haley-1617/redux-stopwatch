@@ -1,5 +1,6 @@
 import {combineReducers} from "redux";
+import ChangeTimeReducer from "./ChangeTimeReducer";
 
 export default combineReducers({
-  replaceMe: () => "hi there",
+  timeState: ChangeTimeReducer,
 });
